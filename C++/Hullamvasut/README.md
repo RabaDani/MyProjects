@@ -14,6 +14,8 @@ The velocity vector of the motion (i.e., the tangent to the curve) must be calcu
 
 The rail can only push the cart, not pull it. If such a situation arises, it means the cart has left the track and should be removed in any manner you choose. If the cart would start moving backward, it must be teleported to the starting point (the first control point of the spline), and the simulation must restart from rest.
 
+# Description (Magyar)
+
 1. Feladatkiírás
 
 Ebben a feladatban egy 2D hullámvasút szimulációt kell megvalósítani. A hullámvasút pályája Catmull-Rom spline, amelyet a kontrollpontjai definiálnak. A spline uniform paraméterezésű, azaz a csomóértékek közötti különbség minden két egymás utáni kontrollpontra ugyanaz. A legelső és legutolsó kontrollpontban az Hermite interpolációhoz használt sebességvektor (azaz a spline paraméter szerinti deriváltja) zérus.
