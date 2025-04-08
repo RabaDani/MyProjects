@@ -71,3 +71,5 @@ A projekt egy sejtautomata szimuláció megvalósítását célozza, különös 
 
 # Class Diagram
 ![alt text](image.png)
+
+![alt text](image-1.png)
