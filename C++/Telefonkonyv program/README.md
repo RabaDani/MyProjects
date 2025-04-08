@@ -58,4 +58,62 @@ Output: Exiting…
 
 # Description (Magyar)
 
-[text](../../../prog2/prog2_telefonkonyv_terv_ilugcs.pdf)
+Telefonkönyv – Programterv
+
+Cél egy olyan program készítése objektum orientált módon, C++ programnyelven, amellyel könnyen lehet telefonkönyv adatbázissal dolgozni. A program szöveges felhasználói felület kialakítású, menüvezérelt rendszerű, és a következő menüpontokat tudja végrehajtani:
+
+• Új személy felvétele
+• Személyhez tartozó adatok: név (vezetéknév, keresztnév), becenév, cím, munkahelyi szám, privát szám megadása
+• Keresés névre, telefonszámra, címre
+• Adatok mentése .txt fájlba
+• Adatok betöltése .txt fájlból
+• Adatok módosítása vagy törlése
+• Kilépés
+
+Program működése:
+
+• A program indításakor egy parancssori ablakban jelenik meg a menü
+• A megfelelő menüpont kiválasztása után végrehajtásra kerül a művelet
+• A menüből mindaddig lehet választani, amíg a felhasználó a „Kilépés” lehetőséget nem választja
+• A „Kilépés” lehetőséggel az almenükből is vissza lehet térni
+
+A program adatkezelése:
+
+• Az adatok archiválása az adatok.txt fájlban történik
+• Az adatok.txt egy egyszerű szöveges fájl
+• A program kizárólag .txt kiterjesztésű fájlokat tud írni és olvasni
+
+Műveletek:
+
+• Személy felvétele
+
+Bemenet: személy adatai
+
+Kimenet: sikeres/sikertelen felvétel
+
+• Keresés a telefonkönyvben
+
+Bemenet: személy neve / telefonszáma / címe
+
+Kimenet: személy adatai kilistázva
+
+• Adatok mentése az adatok.txt fájlba
+
+Kimenet: sikeres/sikertelen mentés
+
+• Adatok betöltése az adatok.txt fájlból
+
+Kimenet: sikeres/sikertelen betöltés
+
+• Személy adatainak módosítása
+
+Bemenet: módosítandó adat
+
+Kimenet: sikeres/sikertelen módosítás
+
+• Kilépés
+
+Kimenet: Exiting…
+
+# Class diagram
+![alt text](image.png)
