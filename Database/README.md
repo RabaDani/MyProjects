@@ -18,19 +18,12 @@ Here you can find the assignments I completed during my university studies relat
 In addition, I successfully passed an oral examination and gained solid knowledge in the following areas:
 
 - Fundamental concepts of databases and related auxiliary tasks.
-
 - Architecture of database management systems (DBMS).
-
 - Physical database storage: heap files, hashed files, indexed files (sparse indexes, B*-trees, dense indexes).
-
 - Conceptual (logical) database design: data models, data modeling, Entity-Relationship (ER) model, ER diagrams.
-
 - Relational data model: data structuring, operations on relations, relational query languages (tuple relational calculus, domain relational calculus), SQL.
-
 - Relational query optimization: catalog-based cost estimation, operation costs, expression evaluation strategies (materialization, pipelining), relational expression transformations, equivalence rules, execution plan selection (cost-based and heuristic optimization).
-
 - Logical design of relational databases: design from ER diagrams, schema decomposition, anomalies (update, insertion, deletion anomalies), database constraints, functional dependencies, normal forms (0NF, 1NF, 2NF, 3NF, BCNF).
-
 - Transactions in DBMS: scheduling, concurrency control with locking, locking-related issues, transaction models (2PL, read/write locks), hierarchical locking (tree protocol, warning protocol), handling transaction failures (strict two-phase locking protocol, aggressive and conservative protocols), recovery from system and media failures (redo protocols, checkpoints), timestamp-based concurrency control (read/write model, versioning with timestamps).
 
 
