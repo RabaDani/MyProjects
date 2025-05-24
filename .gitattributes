@@ -1,3 +1,5 @@
 pontok_egyenesek_C++_OpenGL.zip filter=lfs diff=lfs merge=lfs -text
 hullamvasut_C++_OpenGL.zip filter=lfs diff=lfs merge=lfs -text
 mercatorterkep_C++_OpenGL.zip filter=lfs diff=lfs merge=lfs -text
+raytracing_cones_cylinders.zip filter=lfs diff=lfs merge=lfs -text
+triangle_based_shading_and_raytraced_shadow_rendering.zip filter=lfs diff=lfs merge=lfs -text
