@@ -210,4 +210,4 @@ A jelenet a következő objektumokat tartalmazza:
 
 Ez a projekt a **BME IIT Grafika labor** feladatának részeként készült. Oktatási célokra használható.
 
-![alt text](image.png)
+![alt text](image-1.png)   ![alt text](image-2.png)
